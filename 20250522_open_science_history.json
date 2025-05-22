@@ -11,5 +11,17 @@
     "date": 2016,
     "description": "",
     "type": "loi"
+  },
+      {
+    "name_event": "Plan pour la science ouverte",
+    "date": 2020,
+    "description": "lorem ipsum",
+    "type": "plan"
+  },
+  {
+    "name_event": "Recherche data gouv",
+    "date": 2022,
+    "description": "lorem ipsum",
+    "type": "structure"
   }
 ]}

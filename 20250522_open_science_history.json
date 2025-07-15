@@ -2,26 +2,59 @@
   "events":[
   {
     "name_event": "Fair Principle",
-    "date": 2011,
+    "date": "2011-01-01",
     "description": "Invention des principes FAIR",
-    "type": "Conference"
+    "type": "Conference",
+    "field": "open data"
   },
   {
     "name_event": "Lois pour une république numérique",
-    "date": 2016,
-    "description": "",
-    "type": "loi"
-  },
-      {
-    "name_event": "Plan pour la science ouverte",
-    "date": 2020,
+    "date": "2016-01-01",
     "description": "lorem ipsum",
-    "type": "plan"
+    "type": "loi",
+    "field" : "open data"
+  },
+  {
+    "name_event": "Plan pour la science ouverte",
+    "date": "2020-01-01",
+    "description": "lorem ipsum",
+    "type": "plan",
+    "field": "open sciences"
   },
   {
     "name_event": "Recherche data gouv",
-    "date": 2022,
+    "date": "2022-01-01",
     "description": "lorem ipsum",
-    "type": "structure"
+    "type": "structure",
+    "field": "open data"
+  },
+  {
+    "name_event": "arXiv : une archive ouverte de prépublication",
+    "date": "1991-01-01",
+    "description": "Création de arXiv par Paul Ginsparg",
+    "type": "infrastucture",
+    "field": "publication"
+  },
+  {
+    "name_event": "Hal",
+    "date": "2001-01-01",
+    "description": "Lancement de Hal par le Centre pour la communication scientifique directe (CCSD-CNRS). HAL signifie 'Hyper Article en ligne'",
+    "type": "infrastucture",
+    "field": "publication"
+  },
+  {
+    "name_event": "Creative Commons",
+    "date": "2001-01-15",
+    "description": "Inspiré par les licences libres qui existaient déjà pour les logiciels, Lawrence Lessig crée les Creatives Commons pour les créations artistiques et culturelles",
+    "type":"licence",
+    "field":"publication"
+  },
+  {
+    "name_event":"L'initiative de Budapest",
+    "date":"2002-02-01",
+    "description": "L’Initiative de Budapest pour l’accès ouvert (BOAI), signée par 16 personnalités, est une déclaration publique de principes relative au libre accès à la littérature de recherche.",
+    "url":"https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Initiative-Budapest_fr.pdf",
+    "type": "declcaration",
+    "field": "publication"
   }
 ]}

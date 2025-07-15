@@ -54,7 +54,23 @@
     "date":"2002-02-01",
     "description": "L’Initiative de Budapest pour l’accès ouvert (BOAI), signée par 16 personnalités, est une déclaration publique de principes relative au libre accès à la littérature de recherche.",
     "url":"https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Initiative-Budapest_fr.pdf",
-    "type": "declcaration",
+    "type": "declaration",
+    "field": "open science"
+  },
+  {
+    "name_event":"Déclaration de Berlin",
+    "date": "2003-10-22",
+    "description":"Déclaration de Berlin sur le Libre Accès à la Connaissance en Sciences exactes, Sciences de la vie, Sciences humaines et sociales",
+    "url":"https://openaccess.mpg.de/68042/BerlinDeclaration_wsis_fr.pdf",
+    "type":"declaration",
+    "field":"open science"
+  },
+  {
+    "name_event":"Déclaration de Bethesda pour l’édition en libre accès",
+    "date": "2003-04-11",
+    "description":"La Déclaration Bethesda définit deux conditions que doivent remplir les publications pour être en libre accès : un droit gratuit, irrévocable d’y accéder, de les copier, utiliser, distribuer et de réaliser des œuvres dérivées ; un dépôt dans une archive ouverte assurant le libre accès, l’interopérabilité et l’archivage à long terme.",
+    "url":"https://www.ouvrirlascience.fr/declaration-de-bethesda-pour-ledition-en-libre-acces/",
+    "type":"declaration",
     "field": "publication"
   }
 ]}

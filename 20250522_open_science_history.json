@@ -2,7 +2,7 @@
   "events":[
   {
     "name_event": "Fair Principle",
-    "date": new Date("2011-01-01"),
+    "date": new Date('2011-01-01'),
     "description": "Invention des principes FAIR",
     "type": "Conference",
     "field": "open data"

@@ -1,0 +1,90 @@
+{
+    "events": [{
+            "media": {
+                "url": "https://www.datafairport.org/templates/templatedfpv15/images/header_object.png",
+                "credit": "https://www.datafairport.org/",
+                "caption": "<a href=\"https://en.wikipedia.org/wiki/Ada_Lovelace#/media/File:Ada_Lovelace_portrait.jpg\" title=\"\">Portrait by Alfred Edward Chalon</a>",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2014",
+                "month": "01",
+                "day": "13"
+            },
+            "end_date": {
+                "year": "2014",
+                "month": "01",
+                "day": "16"
+            },
+            "text": {
+                "headline": "Data FAIRport conference",
+                "text": "<p><a href='https://www.datafairport.org/component/content/article/8_news/9_item1/index.html'>During these four days</a> key aspects of a global infrastructure for effective data publishing, discovery, sharing and re-use for eScience experimentation were discussed. The workshop brought together 25 high level participants representing leading research infrastructures and policy institutes, publishers, semantic web specialists, innovators, computer scientists and experimental (e)Scientists.</p>"
+            },
+            "group": "open data",
+            "type": "conference"
+        },
+        {
+            "media": {
+                "url": "https://www.economie.gouv.fr/files/files/PDF/DP_LoiNumerique.pdf",
+                "credit": "",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2016",
+                "month": "10",
+                "day": "7"
+            },
+            "text": {
+                "headline": "Loi pour une république numérique",
+                "text": "La loi pour une république numérique du 7 octobre 2016 est aussi appelée \"loi Lemaire\"( d'après le nom de la secrétaire d'état chargée du Numérique et de l'Innovation, Axelle Lemaire) ou \"loi numérique\". Elle institue le principe de l'<em>open data<em> et fait de l'ouverture des données publiques la règle."
+            },
+            "group": "open data",
+            "type": "textes juridiques"
+        },
+        {
+            "media": {
+                "url": "https://www.ouvrirlascience.fr/wp-content/uploads/2018/08/PLAN_NATIONAL_SCIENCE_OUVERTE_978672.pdf",
+                "credit": "<a href=\"https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg\">Ministère de l'Enseignement Supérieur et de la Recherche</a>",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2018",
+                "month": "7",
+                "day": "4"
+            },
+            "text": {
+                "headline": "Plan national pour la science ouverte",
+                "text": "Le plan est divisé en 3 axes : <ol><li>Généraliser l'accès ouvert aux publications</li><li>Structurer et ouvrir les données de la recherche</li><li>S'inscrire dans une dynamique durable, européenne et internationale</li></ol>"
+            },
+            "group": "open science",
+            "type": "rapports",
+            "background": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/ARL_ENIAC_02.png"
+            }
+        }
+    ],
+    "title": {
+        "media": {
+            "url": "",
+            "credit": "",
+            "caption": "",
+            "thumbnail": ""
+        },
+        "start_date": {
+            "year": "",
+            "month": "",
+            "day": ""
+        },
+        "text": {
+            "headline": "Chronique des sciences ouvertes",
+            "text": "<p class=\"lead\">Avec cette frise chronologique, nous parcourons l'histoire récente des sciences ouvertes.</p>"
+        },
+        "group": "",
+        "background": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fundamental_rules_of_Open_science_-_Open_Science_Training_Handbook_17.png",
+            "alt": "Fundamental rules of Open science"
+        }
+    }
+}

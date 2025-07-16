@@ -30,7 +30,7 @@
                 "thumbnail": ""
             },
             "start_date": {
-                "year": "1948",
+                "year": "1810",
                 "month": "3",
                 "day": "14"
             },
@@ -211,8 +211,8 @@
             "day": ""
         },
         "text": {
-            "headline": "Women in Computing",
-            "text": "<p class=\"lead\">In this sample timeline, we'll walk you through what TimelineJS can do by looking at some of the more important contributions women have made to computer science.</p>"
+            "headline": "Chronique des sciences ouvertes",
+            "text": "<p class=\"lead\">Avec cette frise chronologique, nous parcourons l'histoire récente des sciences ouvertes.</p>"
         },
         "group": "",
         "background": {

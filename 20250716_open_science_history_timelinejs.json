@@ -1,26 +1,4 @@
 {
-    "title": {
-        "media": {
-            "url": "",
-            "credit": "",
-            "caption": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "",
-            "month": "",
-            "day": ""
-        },
-        "text": {
-            "headline": "Chronique des sciences ouvertes",
-            "text": "<p class=\"lead\">Avec cette frise chronologique, nous parcourons l'histoire récente des sciences ouvertes.</p>"
-        },
-        "group": "",
-        "background": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fundamental_rules_of_Open_science_-_Open_Science_Training_Handbook_17.png",
-            "alt": "Fundamental rules of Open science"
-        }
-    },
     "events": [{
             "media": {
                 "url": "https://www.datafairport.org/templates/templatedfpv15/images/header_object.png",
@@ -203,5 +181,27 @@
             "group": "open publication",
             "type": "declaration"
         }
-    ]
+    ],
+    "title": {
+        "media": {
+            "url": "",
+            "credit": "",
+            "caption": "",
+            "thumbnail": ""
+        },
+        "start_date": {
+            "year": "",
+            "month": "",
+            "day": ""
+        },
+        "text": {
+            "headline": "Chronique des sciences ouvertes",
+            "text": "<p class=\"lead\">Avec cette frise chronologique, nous parcourons l'histoire récente des sciences ouvertes.</p>"
+        },
+        "group": "",
+        "background": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fundamental_rules_of_Open_science_-_Open_Science_Training_Handbook_17.png",
+            "alt": "Fundamental rules of Open science"
+        }
+    },
 }

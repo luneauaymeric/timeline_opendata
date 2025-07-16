@@ -1,4 +1,26 @@
 {
+    "title": {
+        "media": {
+            "url": "",
+            "credit": "",
+            "caption": "",
+            "thumbnail": ""
+        },
+        "start_date": {
+            "year": "",
+            "month": "",
+            "day": ""
+        },
+        "text": {
+            "headline": "Chronique des sciences ouvertes",
+            "text": "<p class=\"lead\">Avec cette frise chronologique, nous parcourons l'histoire récente des sciences ouvertes.</p>"
+        },
+        "group": "",
+        "background": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fundamental_rules_of_Open_science_-_Open_Science_Training_Handbook_17.png",
+            "alt": "Fundamental rules of Open science"
+        }
+    }
     "events": [{
             "media": {
                 "url": "https://www.datafairport.org/templates/templatedfpv15/images/header_object.png",
@@ -59,32 +81,127 @@
                 "text": "Le plan est divisé en 3 axes : <ol><li>Généraliser l'accès ouvert aux publications</li><li>Structurer et ouvrir les données de la recherche</li><li>S'inscrire dans une dynamique durable, européenne et internationale</li></ol>"
             },
             "group": "open science",
-            "type": "rapports",
-            "background": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/ARL_ENIAC_02.png"
-            }
-        }
-    ],
-    "title": {
-        "media": {
-            "url": "",
-            "credit": "",
-            "caption": "",
-            "thumbnail": ""
+            "type": "rapports"
         },
-        "start_date": {
-            "year": "",
-            "month": "",
-            "day": ""
+        {
+            "text":{
+                "headline":"Recherche Data Gouv",
+                "text": "L'écosystème national dédié à la gestion, au partage et à l'ouverture des données de la recherche française."
+            },
+            "media":{
+                "url": "https://s3.fr-par.scw.cloud/rdg-portal/Schema/EcosystemeFR_entour%C3%A9.png",
+                "credit": "",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2022",
+                "month": "7",
+                "day": "8"
+            },
+            "group": "open data",
+            "type": "infrastructures"
         },
-        "text": {
-            "headline": "Chronique des sciences ouvertes",
-            "text": "<p class=\"lead\">Avec cette frise chronologique, nous parcourons l'histoire récente des sciences ouvertes.</p>"
+        {
+            "text":{
+                "headline":"arXiv",
+                "text": "une archive ouverte de prépublication créée par Paul Ginsparg."
+            },
+            "media":{
+                "url": "https://fr.wikipedia.org/wiki/ArXiv#/media/Fichier:ArXiv_logo_2022.png",
+                "credit": "Par Cornell University",
+                "caption": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1991",
+                "month": "8",
+                "day": "14"
+            },
+            "group": "open papers",
+            "type": "infrastructures"
         },
-        "group": "",
-        "background": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fundamental_rules_of_Open_science_-_Open_Science_Training_Handbook_17.png",
-            "alt": "Fundamental rules of Open science"
-        }
-    }
+        {
+            "text":{
+                "headline":"HAL : Hyper Article en ligne",
+                "text": "Lancement de Hal par le Centre pour la communication scientifique directe (CCSD-CNRS). Sa création se fait en concertation avec Paul Ginsparg, le créateur d'arXiv"
+            },
+            "media":{
+                "url": "https://hal.science/assets/img/hal_fr.png",
+                "link":"https://hal.science/"
+            },
+            "start_date": {
+                "year": "2001"
+            },
+            "group": "open papers",
+            "type": "infrastructures"
+        },
+        {
+            "text":{
+                "headline":"Creative Commons",
+                "text": "Lawrence Lessig crée les Creatives Commons, une licence libre pour les créations artistiques et culturelles inspirée par celles qui existent pour les logiciels"
+            },
+            "media":{
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/CC-logo.svg",
+                "caption":"Official logo of Creative Commons ",
+                "credit": "Creative Commons",
+                "link":"hhttps://creativecommons.org/"
+            },
+            "start_date": {
+                "year": "2001",
+                "month": "1",
+                "day": "15"
+            },
+            "group": "open publication",
+            "type": "licence"
+        },
+        {
+            "text":{
+                "headline":"Budapest Open Access Initiative",
+                "text": "L'Initiative de Budapest pour l'accès ouvert (BOAI), signée par 16 personnalités, est une déclaration publique de principes relative au libre accès à la littérature de recherche.<br> <blockquote>Removing access barriers to this literature will accelerate research, enrich education, share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge</blockquote>"
+            },
+            "media":{
+                "url": "https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Initiative-Budapest_fr.pdf"
+            },
+            "start_date": {
+                "year": "2002",
+                "month": "2",
+                "day": "14"
+            },
+            "group": "open science",
+            "type": "declaration"
+        },
+        {
+            "text":{
+                "headline":"Déclaration de Berlin",
+                "text": "Déclaration de Berlin sur le Libre Accès à la Connaissance en Sciences exactes, Sciences de la vie, Sciences humaines et sociales"
+            },
+            "media":{
+                "url": "https://openaccess.mpg.de/68042/BerlinDeclaration_wsis_fr.pdf"
+            },
+            "start_date": {
+                "year": "2003",
+                "month": "10",
+                "day": "22"
+            },
+            "group": "open science",
+            "type": "declaration"
+        },
+        {
+            "text":{
+                "headline":"Déclaration de Bethesda pour l'édition en libre accès",
+                "text": "La Déclaration Bethesda définit deux conditions que doivent remplir les publications pour être en libre accès : un droit gratuit, irrévocable d'y accéder, de les copier, utiliser, distribuer et de réaliser des œuvres dérivées ; un dépôt dans une archive ouverte assurant le libre accès, l'interopérabilité et l'archivage à long terme."
+            },
+            "media":{
+                "url": "https://www.ouvrirlascience.fr/declaration-de-bethesda-pour-ledition-en-libre-acces/"
+            },
+            "start_date": {
+                "year": "2003",
+                "month": "04",
+                "day": "11"
+            },
+            "group": "open publication",
+            "type": "declaration"
+        },
+    ]
 }

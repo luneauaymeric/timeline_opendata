@@ -72,5 +72,37 @@
     "url":"https://www.ouvrirlascience.fr/declaration-de-bethesda-pour-ledition-en-libre-acces/",
     "type":"declaration",
     "field": "publication"
+  },
+ {
+    "name_event":"Loi CADA",
+    "date": "1978-07-17",
+    "description":"Loi no 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, dite \"loi CADA\". Elle garantit l'accès aux documents administratifs. Elle sera ensuite modifiée plusieurs fois, suite à la transposition des directives européennes de 2003 (PSI I) et de 2013 (PSI II) et l'adoption de la loi pour la République numérique. On peut voir dans la loi CADA une première impulsion à l'ouverture des données publiques.",
+    "url":"https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339241",
+    "type":"loi",
+    "field": "open data"
+  },
+ {
+    "name_event":"Directive 2003/98/CE du Parlement européen et du Conseil",
+    "date": "2003-11-17",
+    "description":"Directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public (<em>JOUE</em>, L 345/90, 31 décembre 2003).",
+    "url":"https://eur-lex.europa.eu/eli/dir/2003/98/oj?locale=fr",
+    "type":"loi",
+    "field": "open data"
+  },
+ {
+    "name_event":"Directive 2013/37/UE du Parlement européen et du Conseil",
+    "date": "2013-06-26",
+    "description":"Directive 2003/98/UE du Parlement européen et du Conseil du 26 juin 2013 concernant la réutilisation des informations du secteur public (<em>JOUE</em>, L 175/1, 27 avril 2013). Elle modifie la directive 2003/98/CE.",
+    "url":"https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=celex%3A32013L0037",
+    "type":"loi",
+    "field": "open data"
+  },
+{
+    "name_event":"Directive 2019/1024/UE du Parlement européen et du Conseil",
+    "date": "2019-06-20",
+    "description":"Directive 2019/98/UE du Parlement européen et du Conseil du 26 juin 2013 concernant les données ouvertes et la réutilisation des informations du secteur public (<em>JOUE</em>, L 172/76, 26 juin 2019). Elle modifie la directive 2013/37/UE. En particulier, la directive intègre explicitement les données de recherche dans la catégorie des données publiques.",
+    "url":"https://eur-lex.europa.eu/eli/dir/2019/1024/oj?locale=fr",
+    "type":"loi",
+    "field": "open data"
   }
 ]}

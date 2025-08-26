@@ -1,9 +1,80 @@
 {
     "events": [{
             "media": {
+                "url": "",
+                "credit": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "1978",
+                "month": "07",
+                "day": "17"
+            },
+            "text": {
+                "headline": "Loi CADA",
+                "text": "<p><a href='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339241'>Loi no 78-753 du 17 juillet 1978</a> portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, dite loi CADA. Elle garantit l'accès aux documents administratifs. Elle sera ensuite modifiée plusieurs fois, suite à la transposition des directives européennes de 2003 (PSI I) et de 2013 (PSI II) et l'adoption de la loi pour la République numérique. On peut voir dans la loi CADA une première impulsion à l'ouverture des données publiques.</p>"
+            },
+            "group": "open data",
+            "type": "textes juridiques"
+        },
+        {
+            "media": {
+                "url": "",
+                "credit": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2003",
+                "month": "11",
+                "day": "17"
+            },
+            "text": {
+                "headline": "Directive 2003/98/CE du Parlement européen et du Conseil",
+                "text": "<p><a href='https://eur-lex.europa.eu/eli/dir/2003/98/oj?locale=fr'>Directive 2003/98/CE</a> du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public (<em>JOUE</em>, L 345/90, 31 décembre 2003).</p>"
+            },
+            "group": "open data",
+            "type": "textes juridiques"
+        },
+        {
+            "media": {
+                "url": "",
+                "credit": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2013",
+                "month": "06",
+                "day": "26"
+            },
+            "text": {
+                "headline": "Directive 2013/37/UE du Parlement européen et du Conseil",
+                "text": "<p><a href='https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=celex%3A32013L0037'>Directive 2013/37/UE</a> du Parlement européen et du Conseil du 26 juin 2013 concernant la réutilisation des informations du secteur public (<em>JOUE</em>, L 175/1, 27 avril 2013). Elle modifie la directive 2003/98/CE.</p>"
+            },
+            "group": "open data",
+            "type": "textes juridiques"
+        },
+        {
+            "media": {
+                "url": "",
+                "credit": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2019",
+                "month": "06",
+                "day": "20"
+            },
+            "text": {
+                "headline": "Directive 2019/1024/UE du Parlement européen et du Conseil",
+                "text": "<p><a href='https://eur-lex.europa.eu/eli/dir/2019/1024/oj?locale=fr'>Directive 2019/98/UE</a> du Parlement européen et du Conseil du 26 juin 2013 concernant les données ouvertes et la réutilisation des informations du secteur public (<em>JOUE</em>, L 172/76, 26 juin 2019). Elle modifie la directive 2013/37/UE. En particulier, la directive intègre explicitement les données de recherche dans la catégorie des données publiques.</p>"
+            },
+            "group": "open data",
+            "type": "textes juridiques"
+        },
+        {
+            "media": {
                 "url": "https://www.datafairport.org/templates/templatedfpv15/images/header_object.png",
                 "credit": "https://www.datafairport.org/",
-                "caption": "<a href=\"https://en.wikipedia.org/wiki/Ada_Lovelace#/media/File:Ada_Lovelace_portrait.jpg\" title=\"\">Portrait by Alfred Edward Chalon</a>",
                 "thumbnail": ""
             },
             "start_date": {

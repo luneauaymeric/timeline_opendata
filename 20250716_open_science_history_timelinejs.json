@@ -1,6 +1,42 @@
 {
     "events": [{
             "media": {
+                "url": "https://www.oecd.org/content/dam/oecd/fr/publications/reports/2007/04/oecd-principles-and-guidelines-for-access-to-research-data-from-public-funding_g1gh7fe5/9789264034020-en-fr.pdf",
+                "credit": "OCDE",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2007",
+                "month": "04",
+                "day": "12"
+            },
+            "text": {
+                "headline": "Principes et lignes directrices de l'OCDE pour l'accès aux données de la recherche financée sur fonds publics",
+                "text": "<p>C'est dans ce texte que l'OCDE propose une définition des données de la recherche. Définition qui est devenue une référence aujourd'hui.</p>"
+            },
+            "group": "open data",
+            "type": "uextes de cadrage"
+        },
+        {
+            "media": {
+                "url": "https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000379949&author=UNESCO&title=UNESCO+Recommendation+on+Open+Science&year=2021&publisher=UNESCO&TypeOfDocument=UnescoPhysicalDocument&mat=PGD&ct=true&size=512&isPhysical=1&siteId=mainSite",
+                "credit": "UNESCO",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2007",
+                "month": "04",
+                "day": "12"
+            },
+            "text": {
+                "headline": "UNESCO Recommendation on Open Science",
+                "text": ""
+            },
+            "group": "open data",
+            "type": "textes de cadrage"
+        },
+        {
+            "media": {
                 "url": "",
                 "credit": "",
                 "thumbnail": ""

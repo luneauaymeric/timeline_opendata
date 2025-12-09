@@ -15,7 +15,43 @@
                 "text": "<p>C'est dans ce texte que l'OCDE propose une définition des données de la recherche. Définition qui est devenue une référence aujourd'hui.</p>"
             },
             "group": "open data",
-            "type": "uextes de cadrage"
+            "type": "textes de cadrage"
+        },
+        {
+            "media": {
+                "url": "https://cms.geobretagne.fr/sites/default/files/documents/2013.06.18_Charte-du-G8-pour-l-Ouverture-des-Donnees-Publiques-Francais.pdf",
+                "credit": "Etalab et Gouvernemet du Canada",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2009",
+                "month": "02",
+                "day": "04"
+            },
+            "text": {
+                "headline": "Raw Data Now",
+                "text": "Conférence TED au cours de laquelle Tim Berners-Lee (fondateur du Web) demande des 'données brutes maintenant' et appelle les administrations à ouvrir leur données."
+            },
+            "group": "open data",
+            "type": "declaration"
+        },
+        {
+            "media": {
+                "url": "https://cms.geobretagne.fr/sites/default/files/documents/2013.06.18_Charte-du-G8-pour-l-Ouverture-des-Donnees-Publiques-Francais.pdf",
+                "credit": "Etalab et Gouvernemet du Canada",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2013",
+                "month": "06",
+                "day": "18"
+            },
+            "text": {
+                "headline": "Charte du G8 pour l'ouverture des données publiques",
+                "text": ""
+            },
+            "group": "open data",
+            "type": "declaration"
         },
         {
             "media": {

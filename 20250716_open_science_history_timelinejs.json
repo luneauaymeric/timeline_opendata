@@ -19,8 +19,31 @@
         },
         {
             "media": {
-                "url": "https://cms.geobretagne.fr/sites/default/files/documents/2013.06.18_Charte-du-G8-pour-l-Ouverture-des-Donnees-Publiques-Francais.pdf",
-                "credit": "Etalab et Gouvernemet du Canada",
+                "url": "",
+                "credit": "",
+                "thumbnail": ""
+            },
+            "start_date": {
+                "year": "2007",
+                "month": "12",
+                "day": "07"
+            },
+            "end_date": {
+                "year": "2007",
+                "month": "12",
+                "day": "08"
+            },
+            "text": {
+                "headline": "La rencontre de \"Sébastopol\" (USA)",
+                "text": "Au termes des deux jours, les participants définissent huit critères pour que des données gouvernementales soient considérées comme ouvertes"
+            },
+            "group": "open data",
+            "type": "declaration"
+        },
+        {
+            "media": {
+                "url": "",
+                "credit": "",
                 "thumbnail": ""
             },
             "start_date": {
@@ -30,7 +53,7 @@
             },
             "text": {
                 "headline": "Raw Data Now",
-                "text": "Conférence TED au cours de laquelle Tim Berners-Lee (fondateur du Web) demande des 'données brutes maintenant' et appelle les administrations à ouvrir leur données."
+                "text": "Conférence TED au cours de laquelle Tim Berners-Lee (fondateur du Web) appelle les administrations à ouvrir leur données."
             },
             "group": "open data",
             "type": "declaration"
